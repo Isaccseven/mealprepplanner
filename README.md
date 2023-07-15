@@ -28,7 +28,7 @@ Meal Planner is a web application that helps you plan your meals for the week. Y
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/meal-planner.git
+   git clone https://github.com/Isaccseven/mealprepplanner.git
    ```
 2. Navigate to the project directory:
    ```bash
